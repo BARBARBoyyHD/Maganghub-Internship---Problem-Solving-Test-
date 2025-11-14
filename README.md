@@ -19,6 +19,7 @@ Beri akses link GitHub / GitLab yang disubmit secara publik atau ke irfan.handok
 Batas waktu submit: 24 jam setelah menerima link test.
 
 🤖 ATURAN ROLE & LANGUAGE:
+
 BE/FE/Web Fullstack: JS/PHP/Go/Java/C#
 
 Mobile: Kotlin/Swift/Java/Dart
@@ -26,6 +27,7 @@ Mobile: Kotlin/Swift/Java/Dart
 Jika ditemukan KETIDAKSESUAIAN dengan ATURAN di atas, maka akan mendapat pengurangan poin.
 
 Pertama, sebelum mengerjakan soal tes alangkah baiknya berdoa terlebih dahulu. 🙏
+
 Selamat mengerjakan dan semoga lancar! 👍
 
 # Jawaban : 
