@@ -3,6 +3,7 @@ Keterima magang amin ya Allahhh 🙏🙏🙏
 
 # Muhammad Nahrul Hayat
 email : muhammadnahrulhayat98@gmail.com
+
 portofolio : https://nahrul.vercel.app/
 
 
@@ -18,12 +19,15 @@ Beri akses link GitHub / GitLab yang disubmit secara publik atau ke irfan.handok
 Batas waktu submit: 24 jam setelah menerima link test.
 
 🤖 ATURAN ROLE & LANGUAGE:
+
 BE/FE/Web Fullstack: JS/PHP/Go/Java/C#
+
 Mobile: Kotlin/Swift/Java/Dart
 
 Jika ditemukan KETIDAKSESUAIAN dengan ATURAN di atas, maka akan mendapat pengurangan poin.
 
 Pertama, sebelum mengerjakan soal tes alangkah baiknya berdoa terlebih dahulu. 🙏
+
 Selamat mengerjakan dan semoga lancar! 👍
 
 # Jawaban : 
@@ -35,4 +39,4 @@ Selamat mengerjakan dan semoga lancar! 👍
 ![Soal 2](image-1.png)
 
 # Soal 3 
-![Soal 3](image-2.png)
+![soal 3](image-2.png)
