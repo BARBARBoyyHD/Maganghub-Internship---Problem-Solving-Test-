@@ -29,10 +29,10 @@ Selamat mengerjakan dan semoga lancar! 👍
 # Jawaban : 
 
 # Soal 1 
-![soal 1](image.png)
+![Soal 1](image.png)
 
 # Soal 2
-![soal 2](image-1.png)
+![Soal 2](image-1.png)
 
 # Soal 3 
-![soal 3](image-2.png)
+![Soal 3](image-2.png)

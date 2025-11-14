@@ -51,7 +51,29 @@ const denseRanking = ({ scores, gitsScores }) => {
   return results.join(" ");
 };
 
-const scores = [100, 100, 50, 40, 40, 20, 10];
-const gits = [5, 25, 50, 120];
+// Sesuai Contoh Soal
+console.log(
+  "Sesuai Contoh Soal : ",
+  denseRanking({
+    scores: [100, 100, 50, 40, 40, 20, 10],
+    gitsScores: [5, 25, 50, 120],
+  })
+);
 
-console.log(denseRanking({ scores: scores, gitsScores: gits })); 
+// Contoh Tambahan
+console.log(
+  "Contoh Tambahan : ",
+  denseRanking({
+    scores: [200, 180, 180, 160, 150],
+    gitsScores: [170, 180, 250],
+  })
+);
+
+// Skor kecil / Random
+console.log(
+  "Skor kecil / Random : ",
+  denseRanking({
+    scores: [50, 40, 40, 20, 10],
+    gitsScores: [40, 5, 60],
+  })
+);
