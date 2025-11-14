@@ -3,6 +3,7 @@ Keterima magang amin ya Allahhh 🙏🙏🙏
 
 # Muhammad Nahrul Hayat
 email : muhammadnahrulhayat98@gmail.com
+
 portofolio : https://nahrul.vercel.app/
 
 
@@ -19,6 +20,7 @@ Batas waktu submit: 24 jam setelah menerima link test.
 
 🤖 ATURAN ROLE & LANGUAGE:
 BE/FE/Web Fullstack: JS/PHP/Go/Java/C#
+
 Mobile: Kotlin/Swift/Java/Dart
 
 Jika ditemukan KETIDAKSESUAIAN dengan ATURAN di atas, maka akan mendapat pengurangan poin.
